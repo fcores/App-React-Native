@@ -624,41 +624,9 @@ Desarrollado como trabajo práctico de la materia **Desarrollo de Aplicaciones**
 - **API:** JSONPlaceholder (REST)
 - **Deployment:** Expo Go
 
-### Próximas Mejoras Posibles
-
-- [ ] Navegación entre pantallas (React Navigation)
-- [ ] Edición de publicaciones existentes
-- [ ] Eliminación de publicaciones
-- [ ] Autenticación de usuarios
-- [ ] Persistencia local (AsyncStorage)
-- [ ] Paginación infinita
-- [ ] Pull to refresh
-- [ ] Modo oscuro
-- [ ] Animaciones (React Native Reanimated)
-- [ ] Tests unitarios (Jest)
-- [ ] Tests E2E (Detox)
-
----
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la licencia MIT.
-
----
-
-## 🙏 Agradecimientos
-
-- **JSONPlaceholder** por proporcionar una API REST gratuita y confiable
-- **Expo Team** por facilitar el desarrollo React Native
-- **Redux Team** por Redux Toolkit
-- **Callstack** por React Native Paper
-- **UADE** por la formación en Desarrollo de Aplicaciones
-
 ---
 
 <div align="center">
-
-**Desarrollado con ❤️ usando React Native + Expo + Redux + Material Design**
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81.5-61DAFB?style=for-the-badge&logo=react)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-54.0.0-000020?style=for-the-badge&logo=expo)](https://expo.dev/)
